@@ -1,0 +1,30 @@
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.exe.config
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.exe
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.pdb
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.AssemblyReference.cache
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio_Integrador.Form1.resources
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio_Integrador.Properties.Resources.resources
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.GenerateResource.cache
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.CoreCompileInputs.cache
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.exe
+C:\Users\alan sanjurjo\source\repos\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.pdb
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.exe.config
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.exe
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.pdb
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.AssemblyReference.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio_Integrador.Form1.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio_Integrador.Properties.Resources.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.GenerateResource.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.CoreCompileInputs.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.exe
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.pdb
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.exe.config
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.exe
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\bin\Debug\Desafio Integrador.pdb
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.AssemblyReference.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio_Integrador.Form1.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio_Integrador.Properties.Resources.resources
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.GenerateResource.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.csproj.CoreCompileInputs.cache
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.exe
+C:\Users\alan sanjurjo\Desktop\CORONAVIRUS\uni\Primero\set 2\laboratorio\Integrador\Desafio Integrador\Desafio Integrador\obj\Debug\Desafio Integrador.pdb
